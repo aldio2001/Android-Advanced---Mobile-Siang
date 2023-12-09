@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TugasRecyclerView</string>
+    <string name="heroes_name">Superhero Name</string>
+    <string name="description">Description\n</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_notification_description">notification\n</string>
+    <string name="menu_profile_description">profile\n</string>
+    <string name="menu_logout_description">logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
